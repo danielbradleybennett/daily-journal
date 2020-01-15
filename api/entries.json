@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": "2020-01-14",
+      "concept": "HTML & CSS",
+      "entry": "We talked about HTML components and how to make grid layouts with Flexbox in CSS.",
+      "mood": "Happy"
+    },
+    {
+      "id": 2,
+      "date": "07/24/2025",
+      "concept": "Javascript",
+      "entry": "We began to use Javascript to automate the HTML representation of Martin's fish, locations, and tips",
+      "mood": "Overwhelmed"
+    },
+    {
+      "id": 3,
+      "date": "11/25/2019",
+      "concept": "Javascript",
+      "entry": "We fixed the dynamic event listeners.",
+      "mood": "Confused"
+    },
+    {
+      "id": 4,
+      "date": "2020-01-16",
+      "concept": "lolololol",
+      "entry": "booom",
+      "mood": "Confused"
+    },
+    {
+      "date": "",
+      "concept": "",
+      "entry": "noob noob",
+      "mood": "Content",
+      "id": 6
+    },
+    {
+      "date": "",
+      "concept": "",
+      "entry": "noob noob",
+      "mood": "Content",
+      "id": 7
+    },
+    {
+      "date": "",
+      "concept": "",
+      "entry": "",
+      "mood": "Happy",
+      "id": 8
+    }
+  ]
+}

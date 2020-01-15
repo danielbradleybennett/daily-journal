@@ -8,29 +8,32 @@
   <link rel="stylesheet" href="styles/main.css">
 </head>
 
-<body>
-  <h1>Daily Journal</h1>
+<body class="container">
+  <main class="journalContainer">
+<!-- This section is being rendering via the Journal Form in Javascript -->
+
+  <!-- <h1>Daily Journal</h1>
   <div class="dailyjournal">
   <form action="">
     <fieldset>
-      <label for="journalDate" >Date of Entry</label>
-      <input type="date" name="journalDate" id="journalDate">
+      <label>Date of Entry</label>
+      <input type="date" id="journalDate">
     </fieldset>
   
 
     <fieldset>
-      <label for="conceptsCovered">Concepts Covered</label>
-      <input type="text name="conceptsCovered" id="conceptsCovered">
+      <label>Concepts Covered</label>
+      <input type="text" id="conceptsCovered">
     </fieldset>  
  
     <fieldset>
-      <label for="conceptsCovered">Journal Entry</label>
-      <textarea name="journalEntry" id="journalEntry" cols="50" rows="2"></textarea>
+      <label>Journal Entry</label>
+      <textarea id="journalEntry" cols="50" rows="2"></textarea>
     </fieldset>
     
     <fieldset>
-      <label for="conceptsCovered">Mood for the Day</label>
-      <select id = "myList">
+      <label>Mood for the Day</label>
+      <select id="myList">
             <option value = "Content">Content</option>
             <option value = "Happy">Happy</option>
             <option value = "Sad">Sad</option>
@@ -41,9 +44,16 @@
 
       </select>
     </fieldset>
-  <button>Record Journal Entry</button>
+  <button id="saveEntry">Record Journal Entry</button>
   </div>
-  </form>
+  </form> -->
+  </main>
+  <section class="filters">
+    
+
+  </section>
+
+
   <section class = "entryLog"></section>
 
 
